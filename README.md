@@ -1,2 +1,2 @@
 # janme
-janme repo
+janme repo for git commands demonstration
